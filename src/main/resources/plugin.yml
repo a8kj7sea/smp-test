@@ -1,0 +1,7 @@
+name: SMPTest
+main: me.a8kj.smptest.internal.SMPPlugin
+version: "1.8"
+api: "1.8"
+author: a8kj7sea
+description: "A lightweight and efficient plugin designed for an SMP sales server."
+website: "https://github.com/a8kj7sea/smp-test"
